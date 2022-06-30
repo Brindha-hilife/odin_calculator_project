@@ -42,7 +42,7 @@ input{
     border-radius: 10px;
     font-size: 26px !important;
     font-weight: 600;
-    color: black;
+    color: black !important;
     text-align: end;
 }
 button{
